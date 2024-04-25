@@ -72,8 +72,7 @@ Let's write our first query. I want to select all columns from a "customer" tabl
 ```
 
 ### Output :
-<img width="529" alt="Screenshot 2567-04-24 at 15 01 03" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/df71bdf1-8a75-421a-9564-5b475118f4a3">
-
+<img width="638" alt="Screenshot 2567-04-25 at 14 42 54" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/f558bafa-4112-44f6-a424-2326aee42282">
 <br/><br/>
 <br/><br/>
 
