@@ -4,7 +4,7 @@
 DataRockie Basecamp
 
 
-## sort spreedsheet เบื้องต้น
+## เกริ่น Spreadsheet เบื้องต้น
 
 ตารางเริ่มต้น
 
@@ -53,8 +53,6 @@ DataRockie Basecamp
 <br/><br/>
 
 ## SQL and Prompt Engineering 101
-
-What did you learn while building this project? 
 
 
 ### Google gemini
