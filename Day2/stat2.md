@@ -12,7 +12,7 @@
     
 
 
-### Linear Regression
+## Linear Regression
 
 #### data :
 
@@ -40,7 +40,25 @@
 
 <p> จะเห็นว่ามีค่าเข้าใกล้  -1 ดังนั้น ตัวแปรทั้งสองมีความสัมพันธ์กันในทางตรงกันข้าม </p>
 
+<br/><br/>
+
+## AB testing
+
+คือการทำตัวอย่างมา 2 sample โดยที่ตัวอย่างนั้นมีสิ่งที่ต่างกัน 1 สิ่ง
+สามารถนำมาใช้หาความแตกต่างของยอดขายสินค้าทั้ง 2 อย่างได้
+
+## Choosing the right graph
+
+### กราฟสรุปผล (summarize)
+
+- แผนภูมิตารางสรุปสถิติ(Score card)
+- table
+- pie chart
 
 
+### กราฟเปรียบเทียบ (compare)
+- bar chart
 
-
+### identify trend 
+- line graph
+- Scatter Diagram 
