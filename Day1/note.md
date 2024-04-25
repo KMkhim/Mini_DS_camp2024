@@ -56,3 +56,60 @@ DataRockie Basecamp
 
 What did you learn while building this project? 
 
+
+### Google gemini
+
+Use google gemini to help teach writing 
+sql commands.
+
+### Prompt :
+```bash
+You are an SQL expert, with 20 years of experience in database.
+
+Please teach me how to write SQL queries to analyze data using SQLite syntax. My goal is to learn SQL and become a junior data analyst.Please concept using simple language for beginners.
+
+Let's write our first query. I want to select all columns from a "customer" table.
+```
+
+### Output :
+<img width="529" alt="Screenshot 2567-04-24 at 15 01 03" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/df71bdf1-8a75-421a-9564-5b475118f4a3">
+
+<br/><br/>
+<br/><br/>
+
+### Prompt :
+```bash
+I want to select columns “first name” , “last name “, “country”, “address” from a “customer” table.
+```
+### Output :
+<img width="551" alt="Screenshot 2567-04-24 at 15 04 38" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/3e3ca2ed-fe7c-4024-89de-0d555c215a2e">
+
+<br/><br/>
+<br/><br/>
+
+### Prompt :
+```bash
+I want to modify below query in backticks to add another condition to filter only customers with gmail.com
+
+'''
+SELECT firstname, lastname, country, email, address FROM customer
+WHERE country = "USA' OR country = "Japan'
+'''
+```
+### Output :
+<img width="683" alt="Screenshot 2567-04-24 at 16 38 58" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/46b487c0-3b83-4bfc-91e1-23c504cd3541">
+
+<br/><br/>
+<br/><br/>
+
+
+### Prompt :
+```bash
+thx for your response. I want to add one more column 'salary to a select clause. And then sort the result by salary from high to low.
+
+Please write this Query
+```
+### Output :
+<img width="672" alt="Screenshot 2567-04-24 at 16 42 17" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/27a4be75-80ed-4012-937b-f0eba437452a">
+<br/><br/>
+<br/><br/>
