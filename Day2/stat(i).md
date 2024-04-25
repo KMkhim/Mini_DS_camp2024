@@ -10,10 +10,10 @@
 <br/><br/>
 
 ## Statistics is essential for data analysts because 
-  <p> Understanding your data </p>
-  <p> Finding relationships </p>
-  <p> Making predictions </p>
-  <p> Communicating findings </p>
+  <p> Understanding your data : ช่วยอธิบายข้อมูลให้เราเข้าใจมากขึ้น </p>
+  <p> Finding relationships : ดูว่าข้อมูลมีความสัมพันธ์กันจริงๆรึเปล่า </p>
+  <p> Making predictions : คาดการณ์อนาคตตามแนวโน้มปัจจุบัน </p>
+  <p> Communicating findings : แสดงข้อมูลเชิงลึกอย่างชัดเจน </p>
   
 <br/><br/>
 
