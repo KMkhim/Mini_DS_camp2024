@@ -1,21 +1,26 @@
 
 # SQL(II)
-This project is used by the following companies:
+Topics are as follows:
 
-Aggregrate
+<h3>Aggregrate</h3>
+
 - COUNT
 - AVG
 - SUM
 - MIN
 - MAX
 
-GROUP ... BY
+<h3>GROUP ... BY</h3>
 
-Work with more than one table
+<br/>
 
--INNER JOIN
+
+
+<h3> INNER JOIN </h3>
+<p> Work with more than one table</p>
 <br/><br/>
 <br/><br/>
+
 ## Aggregrate
 
 ```bash
