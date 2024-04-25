@@ -1,6 +1,6 @@
 
 # SQL
-This project is used by the following companies:
+Topics are as follows:
 
 - SELECT.....FROM
 - WHERE
