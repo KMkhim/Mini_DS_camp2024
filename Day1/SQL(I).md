@@ -6,7 +6,7 @@ This project is used by the following companies:
 - WHERE
 - ORDER ... BY --sortData
 - LIMIT
-- 
+  
 <br/>
 
 ## SELECT.....FROM
@@ -69,6 +69,7 @@ I want to sort the result set by salary from high to low. Please add salary colu
 
 #### Output :
 
+<img width="755" alt="Screenshot 2567-04-25 at 19 22 42" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/cdc83ff7-8036-45bb-a75e-ee1a4b838596">
 
 
 DESC: This keyword indicates descending order, sorting from highest to lowest salary.
