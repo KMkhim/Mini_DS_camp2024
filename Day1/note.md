@@ -78,7 +78,7 @@ Let's write our first query. I want to select all columns from a "customer" tabl
 
 ### Prompt :
 ```bash
-I want to select columns “first name” , “last name “, “country”, “address” from a “customer” table.
+I want to select columns “first name” , “last name “, “country”, “email”, “address” from a “customer” table.
 ```
 ### Output :
 <img width="551" alt="Screenshot 2567-04-24 at 15 04 38" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/3e3ca2ed-fe7c-4024-89de-0d555c215a2e">
