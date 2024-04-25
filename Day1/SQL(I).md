@@ -53,7 +53,7 @@ Add two conditions to our previous query, filter customers whose age between 18-
 
 #### Output :
 
-<img width="700" alt="Screenshot 2567-04-25 at 15 25 24" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/29c8d2c2-d152-4871-84e5-33d5103a9ebd">
+<img width="734" alt="Screenshot 2567-04-25 at 15 28 52" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/171349e1-29a9-4e54-90dd-5cb1b0b5a920">
 <br/><br/>
 
 ## ORDER ... BY 
@@ -69,7 +69,7 @@ I want to sort the result set by salary from high to low. Please add salary colu
 
 #### Output :
 
-<img width="734" alt="Screenshot 2567-04-25 at 15 28 52" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/171349e1-29a9-4e54-90dd-5cb1b0b5a920">
+
 
 DESC: This keyword indicates descending order, sorting from highest to lowest salary.
 <br/><br/>
@@ -85,7 +85,8 @@ Limit the results to top 100 customers.
 
 #### Output :
 
-<img width="716" alt="Screenshot 2567-04-25 at 15 32 44" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/dd244616-b0c3-4c93-8c4e-6f9e49d4ede7">
+<img width="715" alt="Screenshot 2567-04-25 at 19 20 53" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/a15ff842-ad06-4fea-8e18-7c0c8ee74c7e">
+
 
 <br/><br/>
 
