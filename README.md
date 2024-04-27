@@ -1,7 +1,8 @@
 # Mini_DS_camp2024
 
-## Course
 
+
+<img width="1270" alt="Screenshot 2567-04-27 at 19 56 49" src="https://github.com/KMkhim/Mini_DS_camp2024/assets/152082969/4b56f0d2-c316-4d15-82cd-4e219ccd909b">
 
 
 ## Badges
